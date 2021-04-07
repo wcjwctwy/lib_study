@@ -6,6 +6,11 @@
     <packaging>pom</packaging>
     <modules>
         <module>vavr</module>
+        <module>pdf</module>
+        <module>cron</module>
+        <module>refflect</module>
+        <module>hutool</module>
+        <module>orika</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
