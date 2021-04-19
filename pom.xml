@@ -11,6 +11,9 @@
         <module>refflect</module>
         <module>hutool</module>
         <module>orika</module>
+        <module>reactor</module>
+        <module>camunda</module>
+        <module>flowable</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

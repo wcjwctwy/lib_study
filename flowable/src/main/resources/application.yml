@@ -1,0 +1,11 @@
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/flowable?characterEncoding=UTF-8&nullCatalogMeansCurrent=true&serverTimezone=GMT&useSSL=false
+    username: root
+    password: 123456
+
+logging:
+  level:
+    org.springframework: INFO
+    cn.sf80.lib.study.flowable: DEBUG
